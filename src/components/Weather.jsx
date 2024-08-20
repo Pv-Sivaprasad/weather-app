@@ -45,7 +45,7 @@ const Weather = () => {
     };
 
     useEffect(() => {
-        search("calicut");
+        search("");
     }, []);
 
     return (
